@@ -10,7 +10,7 @@ function Header() {
 
     return (
         <Container>
-            <a href="section.js">
+            <a href="/">
                 <img src="/images/logo.svg" alt="" />
             </a>
 
